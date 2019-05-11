@@ -18,11 +18,11 @@ https://github.com/tech-c2019/Ruby
 ガイダンス
 
 ### 第2回)20190427
-git概要、使い方、課題提出方法
-
+git概要、使い方、課題提出方法  
+https://github.com/tech-c2019/Lecture/blob/master/lecture/190427.md  
 
 ### 第3回)20190511
-
+https://github.com/tech-c2019/Lecture/blob/master/lecture/190511.md  
 
 ### 第4回)20190518
 
