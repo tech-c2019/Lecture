@@ -77,7 +77,7 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190518.md
 
 ### 第13回)20200125
 
-### 第14回)20200202
+### 第14回)20200202g
 
 ## license
 - ドキュメント内容: [CC-BY](http://creativecommons.org/licenses/by/4.0/)
