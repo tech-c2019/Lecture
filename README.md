@@ -26,7 +26,7 @@ gitコマンド,提出方法
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190511.md  
 
 ### 第4回)20190518
-コメント,if,case
+コメント,if,case  
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190518.md  
 
 ### 第5回)20190525
@@ -51,6 +51,33 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190518.md
 
 ## レクチャーノート(後期)
 
+### 第1回)20191005
+
+### 第2回)20191012
+
+### 第3回)20191019
+
+### 第4回)20191026
+
+### 第5回)20191102
+
+### 第6回)20191109
+
+### 第7回)20191116
+
+### 第8回)20191207
+
+### 第9回)20191214
+
+### 第10回)20191221
+
+### 第11回)20190111
+
+### 第12回)20200118
+
+### 第13回)20200125
+
+### 第14回)20200202
 
 ## license
 - ドキュメント内容: [CC-BY](http://creativecommons.org/licenses/by/4.0/)
