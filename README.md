@@ -30,6 +30,7 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190511.md
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190518.md  
 
 ### 第5回)20190525
+https://github.com/tech-c2019/Lecture/blob/master/lecture/190525.md  
 
 ### 第6回)20190601
 
