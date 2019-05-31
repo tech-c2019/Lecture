@@ -30,9 +30,12 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190511.md
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190518.md  
 
 ### 第5回)20190525
+繰り返し式
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190525.md  
 
 ### 第6回)20190601
+クラス
+https://github.com/tech-c2019/Lecture/blob/master/lecture/190601.md  
 
 ### 第7回)20190615
 
