@@ -54,6 +54,8 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190629.md
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190706.md  
 
 ### 第11回)20190713
+正規表現  
+https://github.com/tech-c2019/Lecture/blob/master/lecture/190713.md  
 
 ### 第12回)20190720
 
