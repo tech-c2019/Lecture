@@ -58,7 +58,7 @@ https://github.com/tech-c2019/Lecture/blob/master/lecture/190706.md
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190713.md  
 
 ### 第12回)20190720
-復習  
+Tips / 復習  
 https://github.com/tech-c2019/Lecture/blob/master/lecture/190720.md  
 
 ### 第13回)20190831
